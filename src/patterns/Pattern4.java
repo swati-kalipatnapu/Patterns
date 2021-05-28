@@ -6,7 +6,7 @@
  */
 package patterns;
 public class Pattern4 {
-	
+
 	public static void main(String[] args) {
 		byte n = 4;
 		for(int i=1;i<=n;i++) {
